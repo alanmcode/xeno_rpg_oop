@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Defender
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Defender\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=HP\ SP\ damage\ defence
+comment1.target=Defender(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Defender\r\n
+comment2.params=HP
+comment2.target=int\ getHP(int)
+comment2.text=\r\ngetters
+comment3.params=SP
+comment3.target=int\ getSP(int)
+comment4.params=damage
+comment4.target=int\ getDamage(int)
+comment5.params=defence
+comment5.target=int\ getDefence(int)
+comment6.params=playerHit
+comment6.target=int\ fight(int)
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Attacker
+comment1.params=HP\ SP\ damage\ attack
+comment1.target=Attacker(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Attacker\r\n
+comment2.params=HP
+comment2.target=int\ getHP(int)
+comment2.text=\r\ngetters
+comment3.params=SP
+comment3.target=int\ getSP(int)
+comment4.params=damage
+comment4.target=int\ getDamage(int)
+comment5.params=attack
+comment5.target=int\ getAttack(int)
+comment6.params=playerHit
+comment6.target=int\ fight(int)
+numComments=7

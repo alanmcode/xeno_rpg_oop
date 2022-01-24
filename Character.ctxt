@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Character
+comment1.params=
+comment1.target=Character()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Character\r\n
+comment2.params=HP
+comment2.target=int\ getHP(int)
+comment3.params=damage
+comment3.target=int\ getDamage(int)
+numComments=4

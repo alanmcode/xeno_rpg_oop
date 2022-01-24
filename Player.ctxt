@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=
+comment1.target=Player()
+comment2.params=HP
+comment2.target=int\ getHP(int)
+comment3.params=SP
+comment3.target=int\ getSP(int)
+numComments=4
