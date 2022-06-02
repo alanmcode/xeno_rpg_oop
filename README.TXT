@@ -1,4 +1,3 @@
-Student name: Alan Mustafa
 Student number: 200410780
 
 Now complete the statements below for each level you wish to be marked. Replace all text in square brackets.
